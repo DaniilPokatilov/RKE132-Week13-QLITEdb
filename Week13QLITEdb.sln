@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13QLITEdb", "Week13QLITEdb\Week13QLITEdb.csproj", "{EB2DB8EB-0AC0-441C-8D0C-258DC053CEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2DB8EB-0AC0-441C-8D0C-258DC053CEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2DB8EB-0AC0-441C-8D0C-258DC053CEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2DB8EB-0AC0-441C-8D0C-258DC053CEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2DB8EB-0AC0-441C-8D0C-258DC053CEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95B1A6CF-77A6-4516-9725-B83544970BBD}
+	EndGlobalSection
+EndGlobal
